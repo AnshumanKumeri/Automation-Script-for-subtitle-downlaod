@@ -1,5 +1,5 @@
 # Automation-Script-for-subtitle-downlaod
-Put all of your movies into a folder, copy the folder path and run my script giving the folder path as input and boom!! All the subtitles for the movies in the folder will be downloaded and extracted into the same folder.
+Put all of your movies into a folder, copy the folder path and run my script i.e subtitle.js giving the folder path as input and boom!! All the subtitles for the movies in the folder will be downloaded and extracted into the same folder.
 
 !!!Some important things to note!!!
 1->Please make sure that the name of the movies is in simplest format. There should not be any extra things in the name of the movie.
