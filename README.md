@@ -8,7 +8,7 @@ Put all of your movies into a folder, copy the folder path and run my script i.e
 
 
 Tools and softwares required:->
-node,  
+node, 
 vs code, 
 cheerio, 
 puppeteer with chromium, 
